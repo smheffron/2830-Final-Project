@@ -1,6 +1,6 @@
 # 2830-Final-Project
 
-Website using html/php/css for CS2830 intro to Web Development.
+Website using html/js/php/css for CS2830 intro to Web Development.
 
 GPA/Final Grade calculator
 
