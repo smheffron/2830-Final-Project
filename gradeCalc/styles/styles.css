@@ -1,0 +1,96 @@
+#loggedInStatus{
+    text-align: left;
+}
+
+.gradeFormElement{
+    width: 250px;
+    height: 40px;
+}
+
+th{
+    width: 250px;
+    height: 40px;
+    padding: 5px;
+    background-color: #96858F;
+}
+
+td{
+    text-align: left;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: #6D7993;
+}
+
+.wrapper{
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+.navUL{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6D7993;
+}
+
+.navLI{
+    float: left;
+}
+
+.navLI a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navLI a:hover{
+    background-color: #96858F;
+}
+
+.centered{
+    text-align: center;
+}
+
+.subH{
+    border-bottom: 5px solid #6D7993;
+}
+
+iframe{
+    margin: 10px;
+    border: 3px solid #6D7993;
+    border-radius: 4px;
+}
+
+body{
+    background-color: #D5D5D5;
+    color:black;
+}
+
+.specialRow{
+    background-color: #96858F;
+}
+
+#blueRow{
+    background-color: #6D7993;
+}
+
+.images{
+    margin: 30px;
+    border:2px solid black;
+    border-radius: 50%;
+}
+
+.btnClass{
+    background-color: #6D7993;
+}
+
+#floatRight{
+    float: right;
+}
